@@ -5,6 +5,6 @@ public class product
 	    int a=2;
 	    int b=4;
 	    int c=a*b;
-		System.out.println(" product of a and b is : "+ c);
+		System.out.println("g product of a and b is : "+ c);
 	}
 }
